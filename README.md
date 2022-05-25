@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kumargaurav-quizizz)
+
 #### 👋 Hi, I’m Kumar Gaurav
 - 👀 I’m interested in WebApps and Scarlett Witch.
 - 🌱 I’m currently learning swimming.
