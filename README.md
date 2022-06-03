@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kumargaurav-quizizz)
+![](https://komarev.com/ghpvc/?username=kg-quizizz)
 
 #### 👋 Hi, I’m Kumar Gaurav
 - 👀 I’m interested in WebApps and Scarlett Witch.
